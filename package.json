@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.4.2",
+    "discord.js": "^11.6.4",
     "opusscript": "0.0.6",
     "ytdl-core": "^0.28.0"
   }
